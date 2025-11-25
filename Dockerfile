@@ -1,4 +1,4 @@
-FROM php:8.4-cli
+FROM clegginabox/php-grpc:8.4-cli
 
 # https://getcomposer.org/doc/03-cli.md#composer-allow-superuser
 ENV COMPOSER_ALLOW_SUPERUSER=1
