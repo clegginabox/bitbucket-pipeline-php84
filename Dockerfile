@@ -35,5 +35,4 @@ RUN install-php-extensions \
     xsl \
     soap \
     zip \
-    grpc \
     pcov
